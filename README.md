@@ -3,3 +3,4 @@ Spring Security connect &amp; Validate LDAP (Lightweight Directory Access Protoc
 DefaultUser: ben  
 DefaultPassword: benspassword  
 InfoWeb: https://spring.io/guides/gs/authenticating-ldap/  
+LocalhostPort: http://localhost:8080  
